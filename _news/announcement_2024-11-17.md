@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Published chapter in <i>The Cambridge Handbook of Bilingual Phonetics and Phonology</i>!
+title: Published chapter in <i>The Cambridge Handbook of Bilingual Phonetics and Phonology</i> 📑
 date: 2024-11-17 16:11:00-0400
 inline: false
 related_posts: false
