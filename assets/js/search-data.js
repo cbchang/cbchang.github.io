@@ -63,8 +63,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-published-chapter-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology",
-          title: 'Published chapter in The Cambridge Handbook of Bilingual Phonetics and Phonology 📑',
+            },},{id: "news-published-chapter-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology-amp-nbsp",
+          title: 'Published chapter in The Cambridge Handbook of Bilingual Phonetics and Phonology&amp;amp;nbsp;📑',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2024-11-17.html";
