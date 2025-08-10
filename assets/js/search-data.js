@@ -69,12 +69,10 @@ ninja.data = [{
           section: "News",},{id: "news-gave-three-talks-and-one-workshop-in-the-fall-at-lmu-munich-germany-in-october-at-aarhus-university-denmark-in-november-and-at-simon-fraser-university-canada-in-december-️-️-️",
           title: 'Gave three talks and one workshop in the fall: at LMU Munich (Germany)...',
           description: "",
-          section: "News",},{id: "news-published-paper-in-journal-of-phonetics-amp-nbsp",
-          title: 'Published paper in Journal of Phonetics&amp;amp;nbsp;📑',
+          section: "News",},{id: "news-felix-kpogo-and-i-published-coarticulation-and-coordination-in-phonological-development-insights-from-children-s-and-adults-production-of-complex-simplex-stop-contrasts-in-gã-kpogo-amp-amp-chang-2025-in-the-journal-of-phonetics",
+          title: 'Felix Kpogo and I published “Coarticulation and coordination in phonological development: Insights from...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2025-01-02.html";
-            },},{id: "news-my-phd-student-jupitara-ray-was-awarded-a-u-s-national-science-foundation-doctoral-dissertation-research-improvement-ddri-grant-for-her-dissertation-project-phonetic-accommodation-and-drift-a-study-of-hindi-english-and-telugu-english-early-sequential-bilinguals",
+          section: "News",},{id: "news-my-phd-student-jupitara-ray-was-awarded-a-u-s-national-science-foundation-doctoral-dissertation-research-improvement-ddri-grant-for-her-dissertation-project-phonetic-accommodation-and-drift-a-study-of-hindi-english-and-telugu-english-early-sequential-bilinguals",
           title: 'My PhD student Jupitara Ray was awarded a U.S. National Science Foundation Doctoral...',
           description: "",
           section: "News",},{id: "news-poster-co-authored-with-jupitara-ray-testing-the-role-of-l1-influence-in-phonetic-accommodation-by-indian-english-bilinguals-was-presented-at-the-188th-meeting-of-the-acoustical-society-of-america-held-jointly-with-the-25th-international-congress-on-acoustics-in-new-orleans-la-️",
