@@ -168,14 +168,14 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Charles-Chang//", "_blank");
+          window.open("https://www.researchgate.net/profile/Charles-Chang/", "_blank");
         },
       },{
         id: 'social-scopus',
         title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=https://www.scopus.com/authid/detail.uri?authorId=41260997700", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=41260997700", "_blank");
         },
       },{
         id: 'social-semanticscholar',
@@ -183,13 +183,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.semanticscholar.org/author/32601859", "_blank");
-        },
-      },{
-        id: 'social-wikipedia',
-        title: 'Wikipedia',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://wikipedia.org/wiki/User:Charles_B._Chang", "_blank");
         },
       },{
       id: 'light-theme',
