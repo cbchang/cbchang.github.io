@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Professor of Linguistics, <a href="https://lt.cityu.edu.hk/" target="_blank">CityU</a>
 
 profile:
   align: right
