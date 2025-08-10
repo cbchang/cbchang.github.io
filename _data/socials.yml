@@ -30,9 +30,9 @@ linkedin_username: cbchang # your LinkedIn user name
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: https://www.researchgate.net/profile/Charles-Chang/ # your profile on ResearchGate
+research_gate_profile: Charles-Chang # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-scopus_id: https://www.scopus.com/authid/detail.uri?authorId=41260997700 # your profile on Scopus
+scopus_id: 41260997700 # your profile on Scopus
 semanticscholar_id: 32601859 # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
@@ -42,7 +42,7 @@ semanticscholar_id: 32601859 # your Semantic Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
-wikipedia_id: Charles_B._Chang # your wikipedia id (Case sensitive)
+# wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
