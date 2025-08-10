@@ -76,7 +76,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2025-01-02.html";
-            },},{id: "projects-project-1",
+            },},{id: "news-my-phd-student-jupitara-ray-was-awarded-a-u-s-national-science-foundation-doctoral-dissertation-research-improvement-ddri-grant-for-her-dissertation-project-phonetic-accommodation-and-drift-a-study-of-hindi-english-and-telugu-english-early-sequential-bilinguals",
+          title: 'My PhD student Jupitara Ray was awarded a U.S. National Science Foundation Doctoral...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
