@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Publisher chapter in <i>The Cambridge Handbook of Bilingual Phonetics and Phonology</i>.
+title: Published chapter in <i>The Cambridge Handbook of Bilingual Phonetics and Phonology</i>!
 date: 2024-11-17 16:11:00-0400
 inline: false
 related_posts: false
----
-
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
 ---
 
 Esther de Leeuw and I published a chapter entitled <a href="https://doi.org/10.1017/9781009105767.033" target="_blank">"Phonetic and phonological L1 attrition and drift in bilingual speech"</a> (de Leeuw & Chang, 2024) in <i>The Cambridge Handbook of Bilingual Phonetics and Phonology</i>. Thanks to Mark Amengual for his expert editorship! Chapter abstract below:
