@@ -6,6 +6,8 @@ subtitle: Professor of Linguistics, <a href="https://lt.cityu.edu.hk/" target="_
 
 profile:
   align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>LI-TBD</p>
     <p>83 Tat Chee Avenue</p>
