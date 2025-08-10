@@ -63,15 +63,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-gave-three-talks-and-one-workshop-at-lmu-munich-germany-aarhus-university-denmark-and-simon-fraser-university-canada",
+          section: "News",},{id: "news-publisher-chapter-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology",
+          title: 'Publisher chapter in The Cambridge Handbook of Bilingual Phonetics and Phonology.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1-2024-11-17.html";
+            },},{id: "news-gave-three-talks-and-one-workshop-at-lmu-munich-germany-aarhus-university-denmark-and-simon-fraser-university-canada",
           title: 'Gave three talks and one workshop at LMU Munich (Germany), Aarhus University (Denmark),...',
           description: "",
           section: "News",},{id: "projects-project-1",
