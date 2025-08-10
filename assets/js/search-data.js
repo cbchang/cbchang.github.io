@@ -66,8 +66,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-publisher-chapter-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology",
-          title: 'Publisher chapter in The Cambridge Handbook of Bilingual Phonetics and Phonology.',
+          section: "News",},{id: "news-published-chapter-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology",
+          title: 'Published chapter in The Cambridge Handbook of Bilingual Phonetics and Phonology!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1-2024-11-17.html";
