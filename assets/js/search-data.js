@@ -64,10 +64,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
             },},{id: "news-published-chapter-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology",
-          title: 'Published chapter in The Cambridge Handbook of Bilingual Phonetics and Phonology!',
+          title: 'Published chapter in The Cambridge Handbook of Bilingual Phonetics and Phonology 📑',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1-2024-11-17.html";
+              window.location.href = "/news/announcement_2024-11-17.html";
             },},{id: "news-gave-three-talks-and-one-workshop-in-the-fall-at-lmu-munich-germany-in-october-at-aarhus-university-denmark-in-november-and-at-simon-fraser-university-canada-in-december-️-️-️",
           title: 'Gave three talks and one workshop in the fall: at LMU Munich (Germany)...',
           description: "",
