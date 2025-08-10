@@ -63,10 +63,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-published-chapter-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology",
+            },},{id: "news-published-chapter-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology",
           title: 'Published chapter in The Cambridge Handbook of Bilingual Phonetics and Phonology!',
           description: "",
           section: "News",handler: () => {
@@ -74,7 +71,12 @@ ninja.data = [{
             },},{id: "news-gave-three-talks-and-one-workshop-at-lmu-munich-germany-aarhus-university-denmark-and-simon-fraser-university-canada",
           title: 'Gave three talks and one workshop at LMU Munich (Germany), Aarhus University (Denmark),...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2025-01-02.html";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
