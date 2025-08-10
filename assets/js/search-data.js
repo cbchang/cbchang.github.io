@@ -68,8 +68,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1-2024-11-17.html";
-            },},{id: "news-gave-three-talks-and-one-workshop-at-lmu-munich-germany-aarhus-university-denmark-and-simon-fraser-university-canada",
-          title: 'Gave three talks and one workshop at LMU Munich (Germany), Aarhus University (Denmark),...',
+            },},{id: "news-gave-three-talks-and-one-workshop-in-the-fall-at-lmu-munich-germany-in-october-at-aarhus-university-denmark-in-november-and-at-simon-fraser-university-canada-in-december-️-️-️",
+          title: 'Gave three talks and one workshop in the fall: at LMU Munich (Germany)...',
           description: "",
           section: "News",},{id: "news-",
           title: '',
