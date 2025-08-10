@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   more_info: >
-    <p>LI (Li Dak Sum Yip Yio Chin Academic Building)</p>
+    <p>LI-XXXX</p>
     <p>83 Tat Chee Avenue</p>
     <p>Hong Kong SAR</p>
 
