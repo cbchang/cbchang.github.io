@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave three talks and one workshop in the fall: at LMU Munich (Germany) in October, at Aarhus University (Denmark) in November, and at Simon Fraser University (Canada) in December. 🗣️🗣️🗣️
+Gave three talks and one workshop in the fall: at LMU Munich (Germany) in October, at Aarhus University (Denmark) in November, and at Simon Fraser University (Canada) in December 🗣️🗣️🗣️
