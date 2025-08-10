@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+#  image: prof_pic.jpg
+#  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>LI (Li Dak Sum Yip Yio Chin Academic Building)</p>
+    <p>83 Tat Chee Avenue</p>
+    <p>Hong Kong SAR</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +21,17 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<b>PLEASE NOTE: I am on leave at the Ludwig Maximilian University of Munich until August 2025. In September 2025, I start a new position in the <a href="https://lt.cityu.edu.hk/" target="_blank">Department of Linguistics and Translation</a> at City University of Hong Kong (CityU). If you are a student interested in working with me at CityU, please read <a href="https://thepamlab.github.io/for-students/prospective-phd" target="_blank">this page</a> if you are a prospective PhD student, or <a href="https://thepamlab.github.io/for-students/prospective-mphil" target="_blank">this page</a> if you are a prospective MPhil student.</b>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome! I'm a member of the <a href="https://lt.cityu.edu.hk/" target="_blank">Department of Linguistics and Translation</a> and the Director of the <a href="https://thepamlab.github.io/" target="_blank">Phonetics, Acquisition &amp; Multilingualism Lab</a> (PAMLab) at <a href="https://www.cityu.edu.hk/" target="_blank">City University of Hong Kong</a>. I am also affiliated with the <a href="https://www.sparksociety.org/" target="_blank">SPARK Society</a> and the <a href="https://lsa.umich.edu/ncid/people/ncid-diversity-scholars-network.html" target="_blank">Diversity Scholars Network</a>. Currently, I serve as an Associate Editor of the journal <a href="https://journals.sagepub.com/home/slr" target="_blank"><em>Second Language Research</em></a> and as the Treasurer of the <a href="https://labphon.org/" target="_blank">Association for Laboratory Phonology</a>. My pronouns are the 'he' series (he/him/his).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research generally concerns the relationship between linguistic experience and phonological knowledge over the lifespan. Much of my recent research addresses two central questions in the study of the <strong>acquisition</strong> and <strong>attrition</strong> of sound systems:
+<ol>
+ 	<li><em>How is acquisition of a new language sound system influenced by the learner's experience with a previously-learned sound system, such as that of their native language (L1)?</em></li>
+ 	<li><em>How does phonological acquisition of a new language affect the learner's knowledge and use of their previously-learned language(s)?</em></li>
+</ol>
+I approach these questions primarily by examining the processing, representation, and development of speech sounds in the context of second language (L2) and additional language (Ln) learning, multilingualism, and language contact. This empirical focus leads to work that is strongly <strong>cross-linguistic</strong> in nature, that uses a variety of <strong>experimental techniques</strong> and <strong>quantitative methods</strong>, and that examines both the individual learner (including <strong>individual differences</strong>) and the speech community.
+
+For links to downloadable publications, click <a href="/publications">here</a>. You can also find me on <a href="https://scholar.google.com/citations?user=92W533UAAAAJ" target="_blank">Google Scholar</a>, <a href="https://osf.io/7xyqe/" target="_blank">OSF</a>, <a href="https://orcid.org/0000-0002-3537-2053" target="_blank">ORCID</a>, <a href="https://www.researchgate.net/profile/Charles-Chang" target="_blank">ResearchGate</a>, or <a href="https://cityu-hk.academia.edu/CharlesChang" target="_blank">Academia.edu</a>.
