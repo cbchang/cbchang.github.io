@@ -6,10 +6,10 @@ subtitle: Professor of Linguistics, <a href="https://lt.cityu.edu.hk/" target="_
 
 profile:
   align: right
-  image: cityucampus.jpg
-  image_circular: false # crops the image to make it circular
+#  image: cityucampus.jpg
+#  image_circular: false # crops the image to make it circular
   more_info: >
-    email: my first initial + my middle initial + my last name -at- cityu.edu.hk
+    email: first initial + middle initial + surname -at- cityu.edu.hk
 #    <p>83 Tat Chee Avenue</p>
 #    <p>Hong Kong SAR</p>
 
