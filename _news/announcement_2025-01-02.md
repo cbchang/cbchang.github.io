@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Published paper in <i>Journal of Phonetics</i>&nbsp;:sparkles:
+title: Published paper in <i>Journal of Phonetics</i>
 date: 2025-01-02 16:11:00-0400
 inline: false
 related_posts: false
