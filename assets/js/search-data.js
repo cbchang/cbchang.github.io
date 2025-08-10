@@ -71,8 +71,8 @@ ninja.data = [{
             },},{id: "news-gave-three-talks-and-one-workshop-in-the-fall-at-lmu-munich-germany-in-october-at-aarhus-university-denmark-in-november-and-at-simon-fraser-university-canada-in-december-️-️-️",
           title: 'Gave three talks and one workshop in the fall: at LMU Munich (Germany)...',
           description: "",
-          section: "News",},{id: "news-published-paper-in-journal-of-phonetics",
-          title: 'Published paper in Journal of Phonetics',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2025-01-02.html";
