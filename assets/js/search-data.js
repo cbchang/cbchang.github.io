@@ -63,8 +63,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-esther-de-leeuw-and-i-published-a-chapter-entitled-phonetic-and-phonological-l1-attrition-and-drift-in-bilingual-speech-de-leeuw-amp-amp-chang-2024-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology-thanks-to-mark-amengual-for-his-expert-editorship",
-          title: 'Esther de Leeuw and I published a chapter entitled “Phonetic and phonological L1...',
+            },},{id: "news-esther-de-leeuw-and-i-published-phonetic-and-phonological-l1-attrition-and-drift-in-bilingual-speech-de-leeuw-amp-amp-chang-2024-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology-thanks-to-mark-amengual-for-his-expert-editorship",
+          title: 'Esther de Leeuw and I published “Phonetic and phonological L1 attrition and drift...',
           description: "",
           section: "News",},{id: "news-gave-three-talks-and-one-workshop-in-the-fall-at-lmu-munich-germany-in-october-at-aarhus-university-denmark-in-november-and-at-simon-fraser-university-canada-in-december-️-️-️",
           title: 'Gave three talks and one workshop in the fall: at LMU Munich (Germany)...',
