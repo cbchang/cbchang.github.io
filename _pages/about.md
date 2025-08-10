@@ -9,7 +9,7 @@ profile:
   image: cityucampus.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    email: my first initial + my last initial + my last name -at- cityu.edu.hk
+    email: my first initial + my middle initial + my last name -at- cityu.edu.hk
 #    <p>83 Tat Chee Avenue</p>
 #    <p>Hong Kong SAR</p>
 
@@ -23,7 +23,7 @@ announcements:
 
 ---
 
-Welcome! I'm a member of the <a href="https://lt.cityu.edu.hk/" target="_blank">Department of Linguistics and Translation</a> and the Director of the <a href="https://thepamlab.github.io/" target="_blank">Phonetics, Acquisition &amp; Multilingualism Lab</a> (PAMLab) at <a href="https://www.cityu.edu.hk/" target="_blank">City University of Hong Kong</a>. I am also affiliated with the <a href="https://www.sparksociety.org/" target="_blank">SPARK Society</a> and the <a href="https://lsa.umich.edu/ncid/people/ncid-diversity-scholars-network.html" target="_blank">Diversity Scholars Network</a>. Currently, I serve as an Associate Editor of the journal <a href="https://journals.sagepub.com/home/slr" target="_blank"><em>Second Language Research</em></a> and as the Treasurer of the <a href="https://labphon.org/" target="_blank">Association for Laboratory Phonology</a>. My pronouns are the 'he' series (he/him/his).
+Welcome! I'm a member of the <a href="https://lt.cityu.edu.hk/" target="_blank">Department of Linguistics and Translation</a> and the Director of the <a href="https://thepamlab.github.io/" target="_blank">Phonetics, Acquisition &amp; Multilingualism Lab</a> (PAMLab) at <a href="https://www.cityu.edu.hk/" target="_blank">City University of Hong Kong</a>. I am also affiliated with the <a href="https://www.sparksociety.org/" target="_blank">SPARK Society</a> and the <a href="https://ncid.umich.edu/initiatives/diversity-scholars-network/" target="_blank">Diversity Scholars Network</a>. Currently, I serve as an Associate Editor of the journal <a href="https://journals.sagepub.com/home/slr" target="_blank"><em>Second Language Research</em></a> and as the Treasurer of the <a href="https://labphon.org/" target="_blank">Association for Laboratory Phonology</a>. My pronouns are the 'he' series (he/him/his).
 
 Note: If you are a prospective PhD student interested in working with me at CityU, please read <a href="https://thepamlab.github.io/for-students/prospective-phd" target="_blank">this page</a>. If you are a prospective MPhil student, please read <a href="https://thepamlab.github.io/for-students/prospective-mphil" target="_blank">this page</a>.
 
