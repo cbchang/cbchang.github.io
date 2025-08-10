@@ -126,35 +126,70 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%63%62%63%68%61%6E%67@%63%69%74%79%75.%65%64%75.%68%6B", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=92W533UAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-osf',
+        title: 'Open Science Framework',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://osf.io/7xyqe/", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/cbchang", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/cbchang.bsky.social", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/cbchang", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Charles-Chang//", "_blank");
+        },
+      },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=https://www.scopus.com/authid/detail.uri?authorId=41260997700", "_blank");
+        },
+      },{
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.semanticscholar.org/author/32601859", "_blank");
+        },
+      },{
+        id: 'social-wikipedia',
+        title: 'Wikipedia',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://wikipedia.org/wiki/User:Charles_B._Chang", "_blank");
         },
       },{
       id: 'light-theme',
