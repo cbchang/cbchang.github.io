@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor of Linguistics, <a href="https://lt.cityu.edu.hk/" target="_blank">City University of Hong Kong</a>
+subtitle: Professor of Linguistics, City University of Hong Kong
 
 profile:
   align: right
