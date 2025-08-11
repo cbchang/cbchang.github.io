@@ -9,7 +9,7 @@ profile:
 #  image: cityucampus.jpg
 #  image_circular: false # crops the image to make it circular
   more_info: >
-    email: first initial + middle initial + surname -at- cityu.edu.hk
+    email: first initial + middle initial + surname (at) cityu.edu.hk
 #    <p>83 Tat Chee Avenue</p>
 #    <p>Hong Kong SAR</p>
 
