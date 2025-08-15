@@ -63,10 +63,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-started-a-new-position-as-professor-in-the-department-of-linguistics-and-translation-at-city-university-of-hong-kong",
-          title: 'Started a new position as Professor in the Department of Linguistics and Translation...',
-          description: "",
-          section: "News",},{id: "news-published-with-esther-de-leeuw-phonetic-and-phonological-l1-attrition-and-drift-in-bilingual-speech-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology-thanks-to-mark-amengual-for-his-expert-editorship",
+            },},{id: "news-published-with-esther-de-leeuw-phonetic-and-phonological-l1-attrition-and-drift-in-bilingual-speech-in-the-cambridge-handbook-of-bilingual-phonetics-and-phonology-thanks-to-mark-amengual-for-his-expert-editorship",
           title: 'Published (with Esther de Leeuw) “Phonetic and phonological L1 attrition and drift in...',
           description: "",
           section: "News",},{id: "news-gave-three-talks-and-one-workshop-in-the-fall-at-lmu-munich-germany-in-october-at-aarhus-university-denmark-in-november-and-at-simon-fraser-university-canada-in-december-️-️-️",
@@ -89,6 +86,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-gave-one-talk-over-the-summer-at-the-16th-heritage-language-research-institute-hosted-by-the-university-of-wisconsin-madison-as-part-of-a-panel-on-the-study-of-sounds-in-heritage-languages-️",
           title: 'Gave one talk over the summer: at the 16th Heritage Language Research Institute...',
+          description: "",
+          section: "News",},{id: "news-started-a-new-position-as-professor-in-the-department-of-linguistics-and-translation-at-city-university-of-hong-kong",
+          title: 'Started a new position as Professor in the Department of Linguistics and Translation...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
