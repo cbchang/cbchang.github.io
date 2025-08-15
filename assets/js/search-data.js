@@ -69,7 +69,7 @@ ninja.data = [{
           section: "News",},{id: "news-gave-three-talks-and-one-workshop-in-the-fall-at-lmu-munich-germany-in-october-at-aarhus-university-denmark-in-november-and-at-simon-fraser-university-canada-in-december-️-️-️",
           title: 'Gave three talks and one workshop in the fall: at LMU Munich (Germany)...',
           description: "",
-          section: "News",},{id: "news-published-with-felix-kpogo-coarticulation-and-coordination-in-phonological-development-insights-from-children-s-and-adults-production-of-complex-simplex-stop-contrasts-in-gã-kpogo-amp-amp-chang-2025-in-the-journal-of-phonetics",
+          section: "News",},{id: "news-published-with-felix-kpogo-coarticulation-and-coordination-in-phonological-development-insights-from-children-s-and-adults-production-of-complex-simplex-stop-contrasts-in-gã-in-the-journal-of-phonetics",
           title: 'Published (with Felix Kpogo) “Coarticulation and coordination in phonological development: Insights from children’s...',
           description: "",
           section: "News",},{id: "news-awarded-with-phd-student-jupitara-ray-a-u-s-national-science-foundation-doctoral-dissertation-research-improvement-ddri-grant-for-jupitara-s-dissertation-project-phonetic-accommodation-and-drift-a-study-of-hindi-english-and-telugu-english-early-sequential-bilinguals",
