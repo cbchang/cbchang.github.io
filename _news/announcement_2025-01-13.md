@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My PhD student Jupitara Ray was awarded a U.S. National Science Foundation Doctoral Dissertation Research Improvement (DDRI) Grant for her dissertation project: "Phonetic Accommodation and Drift: A Study of Hindi-English and Telugu-English Early Sequential Bilinguals" 💰
+Awarded (with PhD student Jupitara Ray) a U.S. National Science Foundation Doctoral Dissertation Research Improvement (DDRI) Grant for Jupitara's dissertation project: "Phonetic Accommodation and Drift: A Study of Hindi-English and Telugu-English Early Sequential Bilinguals" 💰
