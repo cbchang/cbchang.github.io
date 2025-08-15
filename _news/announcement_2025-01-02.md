@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Felix Kpogo and I published <a href="https://doi.org/10.1016/j.wocn.2024.101378" target="_blank">"Coarticulation and coordination in phonological development: Insights from children's and adults' production of complex–simplex stop contrasts in Gã"</a> (Kpogo & Chang, 2025) in the <i>Journal of Phonetics</i>&nbsp;&nbsp;📑
+Published (with Felix Kpogo) <a href="https://doi.org/10.1016/j.wocn.2024.101378" target="_blank">"Coarticulation and coordination in phonological development: Insights from children's and adults' production of complex–simplex stop contrasts in Gã"</a> (Kpogo & Chang, 2025) in the <i>Journal of Phonetics</i>&nbsp;&nbsp;📑
